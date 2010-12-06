@@ -1,0 +1,34 @@
+h1. DynArray -- X-Macro Library for Dynamically Resizing Arrays
+
+.bq Copyright (C) 2010 Entertaining Software, Inc.
+
+.bq Copying and distribution of this file, with or without modification,
+    are permitted in any medium without royalty provided the copyright
+    notice and this notice are preserved.  This file is offered as-is,
+    without any warranty.
+
+h2. About DynArray
+
+DynArray is a library of C X-Macros for creating and manipulating dynamically
+resizing arrays.
+
+h2. Copyright and License Information
+
+This package and its associated documentation is subject to the following
+copyright(s):
+
+* Copyright (C) 2010 Entertaining Software, Inc.
+
+This software and its associated documentation is licensed under a X11-based
+License. This permits you to do just about anything with it, including using it
+in proprietary software. A copy of the license along with this software's
+license notice can be found in COPYING.txt.
+
+Attribution is not required but much appreciated. A simple mention in a THANKS
+file would be wonderful!
+
+h3. Doxygen Output
+
+The documentation produced by the Doxygen utility (see INSTALL.textile) is also
+subject to the above Copyright, as Doxygen's license terms put the generated
+files under the same Copyright as the source files.

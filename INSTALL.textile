@@ -1,0 +1,28 @@
+h1. Installation Instructions
+
+.bq Copyright (C) 2010 Entertaining Software, Inc.
+
+.bq Copying and distribution of this file, with or without modification,
+    are permitted in any medium without royalty provided the copyright
+    notice and this notice are preserved.  This file is offered as-is,
+    without any warranty.
+
+h2. Installation
+
+To install, simply copy @include/dynarray.h@ somewhere where your compiler can
+find it. On GNU/Linux, it is recommended that you install it into
+@/usr/local/include@. If you are developing software with DynArray, then it is
+recommended you keep a copy of this distribution without _compiled_
+documentation (@doc/dox@) with your package.
+
+h2. Documentation
+
+Documentation is written in a format to be compiled with Doxygen. To build the
+documentation, simply start up a terminal and run:
+
+bq. @$ cd doc@
+    @$ doxygen@
+
+A prebuilt version of the documentation is distributed in the release Tarballs.
+
+Download Doxygen from @http://www.doxygen.org/index.html@.
