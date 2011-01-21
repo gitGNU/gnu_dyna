@@ -1,6 +1,6 @@
 h1. DynArray -- X-Macro Library for Dynamically Resizing Arrays
 
-.bq Copyright (C) 2010 Entertaining Software, Inc.
+.bq Copyright (C) 2010-2011 Entertaining Software, Inc.
 
 .bq Copying and distribution of this file, with or without modification,
     are permitted in any medium without royalty provided the copyright
@@ -17,7 +17,7 @@ h2. Copyright and License Information
 This package and its associated documentation is subject to the following
 copyright(s):
 
-* Copyright (C) 2010 Entertaining Software, Inc.
+* Copyright (C) 2010-2011 Entertaining Software, Inc.
 
 This software and its associated documentation is licensed under a X11-based
 License. This permits you to do just about anything with it, including using it

@@ -1,11 +1,11 @@
 /**
  * @file
  * @author Luiji Maryo <luiji@users.sourceforge.net>
- * @version 0.0
+ * @version 0.0.0b
  *
  * @section LICENSE
  *
- * Copyright (c) 2010 Entertaining Software, Inc.
+ * Copyright (c) 2010-2011 Entertaining Software, Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
@@ -35,6 +35,20 @@
 
 #ifndef DYNARRAY_H
 #define DYNARRAY_H
+
+/** Major version. */
+#define DYNA_VERSION_MAJOR 0
+/** Minor version. */
+#define DYNA_VERSION_MINOR 0
+/** Build/release version. */
+#define DYNA_VERSION_BUILD 0
+/** Release status ([a]lpha, [b]eta, [p]roduction). */
+#define DYNA_VERSION_STATUS 'b'
+/** Combined version of the previous into a string. */
+#define DYNA_VERSION "0.0.0b"
+
+/** Copyright string. */
+#define DYNA_COPYRIGHT "Copyright (C) 2010-2011 Entertaining Software, Inc."
 
 /**
  * Allocate a chunk of memory.
